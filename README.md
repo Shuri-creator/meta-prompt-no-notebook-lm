@@ -4,6 +4,3 @@ Caderno temático criado no NotebookLM para estudar e desenvolver Meta Prompts. 
 <objetivo>
 Criação de um NotebookLM que atue como copiloto especializado na criação, refinamento e otimização de prompts.
 </objetivo>
-
-
-      </justificativa_das_fontes>
